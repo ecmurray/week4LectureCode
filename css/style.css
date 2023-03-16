@@ -48,6 +48,11 @@ Add 20px of padding & font-size of 30px  */
 }
 
 /* Now try and style the individual boxes using grid-column */
+/* Play with: */
+	/* justify-content:; */
+	/* justify-items:;  */
+	/* align-items:; */
+	/* align-content:; */
 
 .item2 {
 	grid-column: 3 / 4;
@@ -80,8 +85,4 @@ Add 20px of padding & font-size of 30px  */
 	grid-area: 2 / 3 / 3 / 4;
 }
 
-/* Play with: */
-	/* justify-content:; */
-	/* justify-items:;  */
-	/* align-items:; */
-	/* align-content:; */
+
